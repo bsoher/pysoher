@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Smooth 1D data array using a Lowess algorithm 
+"""Smooth 1D data array using a Lowess algorithm  
 
 The Lowess algorithm computes the smooth of a scatterplot of Y against X 
 using robust locally weighted regression. Fitted values, YS, are computed 
