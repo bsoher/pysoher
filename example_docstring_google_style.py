@@ -17,7 +17,7 @@ Example:
 Section breaks are created by resuming unindented text. Section breaks
 are also implicitly created anytime a new section starts.
 
-Attributes:
+Attributes: 
     module_level_variable1 (int): Module level variables may be documented in
         either the ``Attributes`` section of the module docstring, or in an
         inline docstring immediately following the variable.
